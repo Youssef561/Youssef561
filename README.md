@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youssef
 - 👀 I’m interested in
    Passionate about web development and backend technologies
-Exploring system architecture and API development
+Exploring system architecture and API development, 
 Football lover ⚽
 - 🌱 I’m currently learning Advanced Laravel techniques
 Improving Vue.js & AJAX skills
